@@ -775,7 +775,7 @@ public class Lexer implements Scanner {
 @Override
 public Symbol next_token() throws Exception {
 	// TODO Auto-generated method stub
-	return null;
+	return nextSymbol();
 }
 
 
